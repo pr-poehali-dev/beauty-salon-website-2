@@ -10,31 +10,31 @@ import Icon from "@/components/ui/icon";
 
 const services = [
   {
-    icon: "Scissors",
-    title: "Стрижка и укладка",
+    icon: "Eye",
+    title: "Перманентный макияж бровей",
     description:
-      "Профессиональные стрижки для любого типа волос. Создаем стиль, который подходит именно вам.",
-    price: "от 2 500 ₽",
+      "Современная техника татуажа бровей для создания идеальной формы. Долговременный результат до 2 лет.",
+    price: "от 8 000 ₽",
     image:
-      "https://images.unsplash.com/photo-1562004760-aceed7bb0fe3?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
   },
   {
-    icon: "Palette",
-    title: "Окрашивание",
+    icon: "Heart",
+    title: "Перманент губ",
     description:
-      "Современные техники окрашивания: балаяж, омбре, airtouch. Используем премиальные краски.",
-    price: "от 4 000 ₽",
+      "Татуаж губ для естественного цвета и четкого контура. Профессиональные пигменты премиум класса.",
+    price: "от 10 000 ₽",
     image:
-      "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
   },
   {
     icon: "Sparkles",
-    title: "Макияж",
+    title: "Ламинирование бровей и ресниц",
     description:
-      "Дневной и вечерний макияж от профессиональных визажистов. Подбор индивидуального стиля.",
-    price: "от 3 000 ₽",
+      "Процедура для придания бровям и ресницам ухоженного вида. Эффект держится до 2 месяцев.",
+    price: "от 3 500 ₽",
     image:
-      "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
   },
   {
     icon: "Hand",
